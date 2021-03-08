@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Aug 14 17:44:52 2020
 
 @author: leonardo
 """

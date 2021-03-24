@@ -7,4 +7,6 @@ d = 121832886702415731577073962957377780195510499965398469843281
 # Función de desencriptado (D)
 m = pow(c,d,N)
 # Impresión de resultado
-print(f"Mensaje: {m}")
+print(m)
+
+
